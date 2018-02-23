@@ -1,5 +1,6 @@
 target/
 logs/
+out/
 .classpath
 .project
 .metadata/
